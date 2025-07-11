@@ -1,0 +1,166 @@
+# ===== 物品 Items =====
+item.cementmod.cementbag.name=Cement Bag
+item.cementmod.cementpowder.name=Cement Powder
+item.cementmod.completecrushingaxle.name=Complete Crushing Axle
+item.cementmod.crushingaxle.name=Crushing Axle
+item.cementmod.hammer.name=Hammer
+item.cementmod.ironplate.name=Iron Plate
+item.cementmod.largecrushingwheel.name=Large Crushing Wheel
+item.cementmod.limepowder.name=Lime Powder
+item.cementmod.rawmixture.name=Raw Mixture
+item.cementmod.refractorybrick.name=Refractory Brick
+item.cementmod.smallcrushingwheel.name=Small Crushing Wheel
+item.cementmod.wetconcretebucket.name=Wet Concrete Bucket
+item.bucketWet_concrete.name=Wet Concrete Bucket
+itemGroup.cementmod=Cement Mod
+
+# ===== 方块 Blocks =====
+tile.cementmod.cementmixer.name=Cement Mixer
+tile.cementmod.cementpacker.name=Cement Packer
+tile.cementmod.crusher.name=Crusher
+tile.cementmod.deepclay.name=Deep Clay
+tile.cementmod.hardenedconcrete.name=Hardened Concrete
+tile.cementmod.itemextractor.name=Item Extractor
+tile.cementmod.limestone.name=Limestone
+tile.cementmod.refractorybrickblock.name=Refractory Brick Block
+tile.cementmod.reinforcedconcrete.name=Reinforced Concrete
+tile.cementmod.rotarykiln.name=Rotary Kiln
+tile.cementmod.steelframe.name=Steel Frame
+tile.cementmod.wetconcrete.name=Wet Concrete
+tile.steel_rebar.name=Steel Rebar
+
+# ===== 流体 Fluids =====
+fluid.wet_concrete.name=Wet Concrete
+
+# ===== 进度 Achievements =====
+advancements.cementmod.acid_rain_survivor.title=Acid Rain Survivor
+advancements.cementmod.acid_rain_survivor.description=Survive during an acid rain storm
+advancements.cementmod.cement_master.title=Cement Master
+advancements.cementmod.cement_master.description=Produce cement powder using the rotary kiln
+advancements.cementmod.concrete_builder.title=Concrete Builder
+advancements.cementmod.concrete_builder.description=Place both hardened and wet concrete
+advancements.cementmod.crushing_expert.title=Crushing Expert
+advancements.cementmod.crushing_expert.description=Obtain 4 lime powder from one crushing
+advancements.cementmod.deep_earth_explorer.title=Deep Earth Explorer
+advancements.cementmod.deep_earth_explorer.description=Mine deep clay from the underground
+advancements.cementmod.disaster_proof.title=Disaster Proof
+advancements.cementmod.disaster_proof.description=Place reinforced concrete during acid rain
+advancements.cementmod.efficient_production.title=Efficient Production
+advancements.cementmod.efficient_production.description=Produce 4 cement powder in one operation
+advancements.cementmod.first_lime.title=First Lime Powder
+advancements.cementmod.first_lime.description=Crush limestone to obtain lime powder
+advancements.cementmod.industrial_revolution.title=Industrial Revolution
+advancements.cementmod.industrial_revolution.description=Build both the Crusher and Rotary Kiln
+advancements.cementmod.perfect_reinforcement.title=Perfect Reinforcement
+advancements.cementmod.perfect_reinforcement.description=Reinforce a concrete pillar on all six sides
+advancements.cementmod.root.title=Cement Journey
+advancements.cementmod.root.description=Begin your cement production adventure
+advancements.cementmod.structure_engineer.title=Structure Engineer
+advancements.cementmod.structure_engineer.description=Craft reinforced concrete and place steel rebar
+advancements.cementmod.structure_master.title=Structure Master
+advancements.cementmod.structure_master.description=Build a large structure with reinforced concrete
+
+# ===== JEI集成 =====
+jei.category.crusher=Crusher
+jei.category.rotary_kiln=Rotary Kiln
+jei.rotary_kiln.burn_time=Rotary Kiln Burn Time
+jei.rotary_kiln.fuel_slot=Fuel
+jei.rotary_kiln.input_slot=Input
+jei.rotary_kiln.output_slot=Output
+jei.rotary_kiln.smelting_recipe=Smelting Recipe
+jei.rotary_kiln.fuel_recipe=Fuel Recipe
+jei.rotary_kiln.smelting_time=Smelting Time: %ds
+jei.rotary_kiln.burn_time=Burn Time: %ds
+jei.rotary_kiln.fuel_slot=Fuel Slot
+jei.rotary_kiln.input_slot=Input Slot
+jei.rotary_kiln.output_slot=Output Slot
+jei.crusher.input_slot=Input Slot
+jei.crusher.output_slot=Output Slot
+jei.crusher.processing_time=Processing Time: %ds
+
+# ===== 工具提示 Tooltips =====
+tooltip.cementmod.crusher_structure=§6Structure:§r Bottom layer: three 2x2 iron frames + one block. Iron frame on each frame, crusher on block.
+tooltip.cementmod.rotary_kiln_structure=§6Structure:§r Base: 3x1 refractory bricks, second layer: 3x1 rotary kiln block
+tooltip.cementmod.progress=Progress: %d%%
+tooltip.cementmixer.water_empty=Water bucket required
+tooltip.cementmixer.water_filled=Water: %d/%d mB
+tooltip.hammer.damage=Damage: %s
+tooltip.hammer.attack_speed=Attack Speed: %s
+tooltip.hammer.durability=Durability: %s/%s
+tooltip.hammer.durability_left=Durability: %d/%d
+tooltip.hammer.heavy=Heavy Weapon - Right-click for heavy attack
+tooltip.hammer.warning=§cWarning: Hammer is about to break!
+tooltip.packer.progress=Packing Progress
+tooltip.extractor.storage=Item Storage Area
+tooltip.extractor.status=Status
+tooltip.extractor.count=Items Extracted: %d
+tooltip.mixer.lime_powder=Lime Powder
+tooltip.mixer.sand=Sand
+tooltip.mixer.water_bucket=Water Bucket
+tooltip.mixer.output=Wet Concrete Bucket
+tooltip.packer.input=Cement Powder
+tooltip.packer.output=Cement Bag
+
+# ===== 消息 Messages =====
+message.hammer.charged=Hammer charged!
+message.hammer.broken=Your hammer broke!
+msg.collapse_warning=Structure collapse detected!
+msg.mixer.mixing=Mixing...
+msg.packer.packing=Packing...
+msg.extractor.working=§aWorking normally
+msg.extractor.idle=§7Idle
+msg.extractor.error=§cNo machine connected!
+
+# ===== 字幕 Subtitles =====
+subtitles.cementmod.concrete_collapse=Concrete collapsing
+subtitles.cementmod.concrete_pour=Pouring concrete
+subtitles.cementmod.crusher_operating=Crusher operating
+subtitles.cementmod.crusher_run=Crusher running
+subtitles.cementmod.crushing=Crushing
+subtitles.cementmod.hammer_hit=Hammer hitting
+subtitles.cementmod.hammer_swing=Hammer swinging
+subtitles.cementmod.kiln_burn=Kiln burning
+subtitles.cementmod.rebar_place=Rebar placing
+subtitles.cementmod.reinforced_collapse=Reinforced concrete collapsing
+subtitles.cementmod.rotating=Rotating
+subtitles.cementmod.wet_concrete_place=Wet concrete placing
+subtitles.block.cementmod.crusher.open=Opening Crusher
+subtitles.block.cementmod.rotary_kiln.open=Opening Rotary Kiln
+
+# ===== GUI界面 =====
+container.cement_mixer=Cement Mixer
+container.cement_packer=Cement Packer
+container.item_extractor=Item Extractor
+
+# ===== 配方描述 =====
+recipe.hammer_crafting_iron_plate=Iron Ingot + Hammer = Iron Plate
+# 水泥搅拌机
+tile.cement_mixer.name=水泥搅拌机
+
+# 工具提示
+tooltip.mixer.lime_powder=石灰粉
+tooltip.mixer.sand=沙子
+tooltip.mixer.water_bucket=水桶
+tooltip.mixer.output=湿混凝土桶
+tooltip.mixer.water_level=水量: %d/%d mB
+tooltip.mixer.water_empty=水箱为空
+tooltip.mixer.water_low=水量过低!
+tooltip.mixer.water_medium=水量中等
+tooltip.mixer.water_full=水量充足
+
+# 状态消息
+msg.mixer.mixing=搅拌中...
+msg.mixer.low_water=§c水量不足
+
+progress.cement_packer=打包进度: %d
+tile.cement_mixer.name=Cement Mixer
+gui.cement_mixer.progress=Progress: %d%%
+tile.cement_packer.name=Cement Packer
+gui.cement_packer.cement_powder=Cement Powder
+gui.cement_packer.leather=Leather
+tile.item_extractor.name=Item Extractor
+msg.extractor.count=Extracted: %d
+tooltip.extractor.storage=Storage Area
+status.extractor.idle=Idle
+status.extractor.working=Working
+status.extractor.invalid=Invalid Position

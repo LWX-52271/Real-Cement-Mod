@@ -1,0 +1,168 @@
+# ===== 物品 Items =====
+item.cementmod.cementbag.name=水泥袋
+item.cementmod.cementpowder.name=水泥粉
+item.cementmod.completecrushingaxle.name=完全破碎轮轴
+item.cementmod.crushingaxle.name=破碎轮轴
+item.cementmod.hammer.name=锤子
+item.cementmod.ironplate.name=铁板
+item.cementmod.largecrushingwheel.name=大破碎轮
+item.cementmod.limepowder.name=石灰粉
+item.cementmod.rawmixture.name=生料混合物
+item.cementmod.refractorybrick.name=防火砖
+item.cementmod.smallcrushingwheel.name=小破碎轮
+item.cementmod.wetconcretebucket.name=湿混凝土桶
+item.bucketWet_concrete.name=湿混凝土桶
+itemGroup.cementmod=水泥模组
+
+# ===== 方块 Blocks =====
+tile.cementmod.cementmixer.name=水泥合成器
+tile.cementmod.cementpacker.name=水泥打包机
+tile.cementmod.crusher.name=破碎机
+tile.cementmod.deepclay.name=深层黏土
+tile.cementmod.hardenedconcrete.name=硬化混凝土
+tile.cementmod.itemextractor.name=自动取物器
+tile.cementmod.limestone.name=石灰石
+tile.cementmod.refractorybrickblock.name=防火砖块
+tile.cementmod.reinforcedconcrete.name=钢筋混凝土
+tile.cementmod.rotarykiln.name=回转窑
+tile.cementmod.steelframe.name=钢铁框架
+tile.cementmod.wetconcrete.name=湿混凝土
+tile.steel_rebar.name=钢筋
+
+# ===== 流体 Fluids =====
+fluid.wet_concrete.name=湿混凝土
+
+# ===== 进度 Achievements =====
+advancements.cementmod.acid_rain_survivor.title=酸雨幸存者
+advancements.cementmod.acid_rain_survivor.description=在酸雨风暴中生存下来
+advancements.cementmod.cement_master.title=水泥大师
+advancements.cementmod.cement_master.description=使用回转窑生产水泥粉
+advancements.cementmod.concrete_builder.title=混凝土建造者
+advancements.cementmod.concrete_builder.description=放置硬化混凝土和湿混凝土
+advancements.cementmod.crushing_expert.title=粉碎专家
+advancements.cementmod.crushing_expert.description=一次粉碎获得4个石灰粉
+advancements.cementmod.deep_earth_explorer.title=深地探险者
+advancements.cementmod.deep_earth_explorer.description=从地下挖掘深层黏土
+advancements.cementmod.disaster_proof.title=抗灾建筑
+advancements.cementmod.disaster_proof.description=在酸雨天气放置钢筋混凝土
+advancements.cementmod.efficient_production.title=高效生产
+advancements.cementmod.efficient_production.description=一次操作生产4个水泥粉
+advancements.cementmod.first_lime.title=第一份石灰粉
+advancements.cementmod.first_lime.description=粉碎石灰石获得石灰粉
+advancements.cementmod.industrial_revolution.title=工业革命
+advancements.cementmod.industrial_revolution.description=建造破碎机和回转窑
+advancements.cementmod.perfect_reinforcement.title=完美加固
+advancements.cementmod.perfect_reinforcement.description=在混凝土柱的六个方向加固
+advancements.cementmod.root.title=水泥之旅
+advancements.cementmod.root.description=开始你的水泥生产冒险
+advancements.cementmod.structure_engineer.title=结构工程师
+advancements.cementmod.structure_engineer.description=制作钢筋混凝土并放置钢筋
+advancements.cementmod.structure_master.title=结构大师
+advancements.cementmod.structure_master.description=用钢筋混凝土建造大型结构
+
+# ===== JEI集成 =====
+jei.category.crusher=破碎机
+jei.category.rotary_kiln=回转窑
+jei.rotary_kiln.burn_time=回转窑燃烧时间
+jei.rotary_kiln.fuel_slot=燃料
+jei.rotary_kiln.input_slot=输入
+jei.rotary_kiln.output_slot=输出
+jei.rotary_kiln.smelting_recipe=熔炼配方
+jei.rotary_kiln.fuel_recipe=燃料配方
+jei.rotary_kiln.smelting_time=熔炼时间: %d秒
+jei.rotary_kiln.burn_time=燃烧时间: %d秒
+jei.rotary_kiln.fuel_slot=燃料槽
+jei.rotary_kiln.input_slot=输入槽
+jei.rotary_kiln.output_slot=输出槽
+
+jei.crusher.input_slot=输入槽
+jei.crusher.output_slot=输出槽
+jei.crusher.processing_time=处理时间: %d秒
+
+# ===== 工具提示 Tooltips =====
+tooltip.cementmod.crusher_structure=§6结构需求:§r 底层2x2三个钢铁框架一个任意方块，每个钢铁框架上是一个钢铁框架，任意方块上是破碎机
+tooltip.cementmod.rotary_kiln_structure=§6结构需求:§r 底层3x1耐火砖底座，第二层3x1回转窑方块
+tooltip.cementmod.progress=进度: %d%%
+tooltip.cementmixer.water_empty=需要水桶
+tooltip.cementmixer.water_filled=水量: %d/%d mB
+tooltip.hammer.damage=攻击伤害: %s
+tooltip.hammer.attack_speed=攻击速度: %s
+tooltip.hammer.durability=耐久: %s/%s
+tooltip.hammer.durability_left=耐久度: %d/%d
+tooltip.hammer.heavy=重型武器 - 右键重击
+tooltip.hammer.warning=§c警告: 锤子即将损坏!
+tooltip.packer.progress=打包进度
+tooltip.extractor.storage=提取的物品存储区
+tooltip.extractor.status=状态
+tooltip.extractor.count=已提取物品数量
+tooltip.mixer.lime_powder=石灰粉
+tooltip.mixer.sand=沙子
+tooltip.mixer.water_bucket=水桶
+tooltip.mixer.output=湿混凝土桶
+tooltip.packer.input=水泥粉
+tooltip.packer.output=水泥袋
+
+# ===== 消息 Messages =====
+message.hammer.charged=锤子蓄力完成！
+message.hammer.broken=你的锤子损坏了！
+msg.collapse_warning=检测到结构坍塌！
+msg.mixer.mixing=合成中...
+msg.packer.packing=打包中...
+msg.extractor.working=§a工作正常
+msg.extractor.idle=§7待机中
+msg.extractor.error=§c未连接机器
+msg.extractor.count=已提取: %d 物品
+
+# ===== 字幕 Subtitles =====
+subtitles.cementmod.concrete_collapse=混凝土坍塌
+subtitles.cementmod.concrete_pour=浇注混凝土
+subtitles.cementmod.crusher_operating=破碎机运转
+subtitles.cementmod.crusher_run=破碎机运行
+subtitles.cementmod.crushing=破碎
+subtitles.cementmod.hammer_hit=锤子敲击
+subtitles.cementmod.hammer_swing=锤子挥动
+subtitles.cementmod.kiln_burn=回转窑燃烧
+subtitles.cementmod.rebar_place=钢筋放置
+subtitles.cementmod.reinforced_collapse=钢筋混凝土坍塌
+subtitles.cementmod.rotating=旋转
+subtitles.cementmod.wet_concrete_place=湿混凝土放置
+subtitles.block.cementmod.crusher.open=打开破碎机
+subtitles.block.cementmod.rotary_kiln.open=打开回转窑
+
+# ===== GUI界面 =====
+container.cement_mixer=水泥合成器
+container.cement_packer=水泥打包机
+container.item_extractor=自动取物器
+
+# ===== 配方描述 =====
+recipe.hammer_crafting_iron_plate=铁锭 + 锤子 = 铁板
+# 水泥搅拌机
+tile.cement_mixer.name=水泥搅拌机
+
+# 工具提示
+tooltip.mixer.lime_powder=石灰粉
+tooltip.mixer.sand=沙子
+tooltip.mixer.water_bucket=水桶
+tooltip.mixer.output=湿混凝土桶
+tooltip.mixer.water_level=水量: %d/%d mB
+tooltip.mixer.water_empty=水箱为空
+tooltip.mixer.water_low=水量过低!
+tooltip.mixer.water_medium=水量中等
+tooltip.mixer.water_full=水量充足
+
+# 状态消息
+msg.mixer.mixing=搅拌中...
+msg.mixer.low_water=§c水量不足
+
+progress.cement_packer=打包进度: %d
+tile.cement_mixer.name=水泥搅拌机
+gui.cement_mixer.progress=进度: %d%%
+tile.cement_packer.name=水泥打包机
+gui.cement_packer.cement_powder=水泥粉
+gui.cement_packer.leather=皮革
+tile.item_extractor.name=物品提取器
+msg.extractor.count=已提取: %d
+tooltip.extractor.storage=存储区域
+status.extractor.idle=空闲
+status.extractor.working=工作中
+status.extractor.invalid=位置无效

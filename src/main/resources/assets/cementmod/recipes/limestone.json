@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SBS",
+    "SCS"
+  ],
+  "key": {
+    "S": { "item": "minecraft:sand" ,"data": 0},
+    "B": { "item": "minecraft:dye" ,"data": 15},
+    "C": { "item": "minecraft:coal" }
+  },
+  "result": {
+    "item": "cementmod:limestone",
+    "count": 1
+  }
+}

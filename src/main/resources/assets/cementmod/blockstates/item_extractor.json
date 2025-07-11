@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cementmod:item_extractor" },
+    "facing=south": { "model": "cementmod:item_extractor", "y": 180 },
+    "facing=east": { "model": "cementmod:item_extractor", "y": 90 },
+    "facing=west": { "model": "cementmod:item_extractor", "y": 270 }
+  }
+}
