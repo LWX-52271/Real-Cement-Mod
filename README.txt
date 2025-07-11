@@ -1,53 +1,37 @@
--------------------------------------------
-Source installation information for modders
--------------------------------------------
-This code follows the Minecraft Forge installation methodology. It will apply
-some small patches to the vanilla MCP source code, giving you and it access 
-to some of the data and functions you need to build a successful mod.
+Cement Mod v1.0 for Minecraft 1.12.2
 
-Note also that the patches are built against "unrenamed" MCP source code (aka
-srgnames) - this means that you will not be able to read them directly against
-normal code.
+[![下载量](https://img.shields.io/badge/下载-JAR文件-blue?style=for-the-badge)](https://github.com/YourUsername/CementMod/releases/download/v1.0/cementmod-1.0.0.jar)
+[![支持版本](https://img.shields.io/badge/Minecraft-1.12.2-green?style=flat-square)]()
+[![Forge版本](https://img.shields.io/badge/Forge-14.23.5.2860-orange?style=flat-square)]()
 
-Source pack installation information:
+🏭 核心特性
 
-Standalone source installation
-==============================
+1. 工业机械系统
+- **破碎机**：将石灰石加工成石灰粉（需要钢铁框架底座）
+- **回转窑**：烧制生料混合物生产水泥（需要耐火砖底座）
+- **JEI配方集成**：支持Just Enough Items查看详细配方
 
-See the Forge Documentation online for more detailed instructions:
-http://mcforge.readthedocs.io/en/latest/gettingstarted/
+2. 建筑材料体系
+- **水泥工艺链**：石灰石 → 石灰粉 → 生料混合物 → 水泥粉
+- **混凝土系统**：
+  - 湿混凝土流体（随时间硬化）
+  - 硬化混凝土（基础建材）
+  - 钢筋混凝土（加固结构）
+- **钢筋系统**：用于强化混凝土结构
 
-Step 1: Open your command-line and browse to the folder where you extracted the zip file.
+3. 沉浸式游戏机制
+- **结构坍塌系统**：未加固的大型结构会崩塌
+- **酸雨天气**：炎热生物群系下雨时可能变成酸雨，加速混凝土硬化
+- **真实物理**：湿混凝土会减慢实体移动速度
 
-Step 2: You're left with a choice.
-If you prefer to use Eclipse:
-1. Run the following command: "gradlew genEclipseRuns" (./gradlew genEclipseRuns if you are on Mac/Linux)
-2. Open Eclipse, Import > Existing Gradle Project > Select Folder 
-   or run "gradlew eclipse" to generate the project.
-(Current Issue)
-4. Open Project > Run/Debug Settings > Edit runClient and runServer > Environment
-5. Edit MOD_CLASSES to show [modid]%%[Path]; 2 times rather then the generated 4.
+4. 玩家支持系统
+- **结构手册**：指导搭建机械结构
+- **视觉预览**：手持机械方块时显示结构粒子
+- **详细提示**：首次放置机器时显示建造指南
 
-If you prefer to use IntelliJ:
-1. Open IDEA, and import project.
-2. Select your build.gradle file and have it import.
-3. Run the following command: "gradlew genIntellijRuns" (./gradlew genIntellijRuns if you are on Mac/Linux)
-4. Refresh the Gradle Project in IDEA if required.
+📦 安装说明
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can run "gradlew --refresh-dependencies" to refresh the local cache. "gradlew clean" to reset everything {this does not affect your code} and then start the processs again.
-
-Should it still not work, 
-Refer to #ForgeGradle on EsperNet for more information about the gradle environment.
-or the Forge Project Discord discord.gg/UvedJ9m
-
-Forge source installation
-=========================
-MinecraftForge ships with this code and installs it as part of the forge
-installation process, no further action is required on your part.
-
-LexManos' Install Video
-=======================
-https://www.youtube.com/watch?v=8VEdtQLuLO0&feature=youtu.be
-
-For more details update more often refer to the Forge Forums:
-http://www.minecraftforge.net/forum/index.php/topic,14048.0.html
+1. 确保已安装 [Minecraft Forge 1.12.2-14.23.5.2860](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
+2. 下载 `cementmod-1.0.0.jar`
+3. 放入 `.minecraft/mods` 文件夹
+4. 启动游戏享受！
