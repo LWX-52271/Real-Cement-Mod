@@ -1,1 +1,2 @@
 # Real-Cement-Mod
+The Cement Mod aims to add a complete cement production process chain and a realistic building physics system to Minecraft 1.12.2, providing players with a full experience from raw material extraction, industrial processing to advanced building construction. The mod focuses on two core directions: realizing a realistic cement production process and introducing a physics-based building stability mechanism.
