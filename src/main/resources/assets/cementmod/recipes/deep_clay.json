@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:clay" },
+    { "item": "minecraft:clay" },
+    { "item": "minecraft:clay" },
+    { "item": "minecraft:clay" },
+    { "item": "minecraft:cobblestone" },
+    { "item": "minecraft:cobblestone" },
+    { "item": "minecraft:cobblestone" },
+    { "item": "minecraft:cobblestone" },
+    { "item": "minecraft:sand","data": 0 }
+  ],
+  "result": {
+    "item": "cementmod:deep_clay",
+    "count": 1
+  }
+}

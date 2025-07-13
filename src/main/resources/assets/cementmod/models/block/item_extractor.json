@@ -1,0 +1,12 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "particle": "cementmod:blocks/item_extractor_front",
+    "down": "cementmod:blocks/item_extractor_bottom",
+    "up": "cementmod:blocks/item_extractor_top",
+    "north": "cementmod:blocks/item_extractor_front",
+    "east": "cementmod:blocks/item_extractor_side",
+    "south": "cementmod:blocks/item_extractor_side",
+    "west": "cementmod:blocks/item_extractor_side"
+  }
+}

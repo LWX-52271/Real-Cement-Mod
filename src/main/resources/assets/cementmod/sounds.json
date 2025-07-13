@@ -1,0 +1,23 @@
+{
+  "crusher_operating": {
+    "category": "block",
+    "sounds": [
+      "cementmod:crusher_operating"
+    ],
+    "subtitle": "subtitles.cementmod.crusher_operating"
+  },
+  "concrete_pour": {
+    "category": "block",
+    "sounds": [
+      "cementmod:concrete_pour"
+    ],
+    "subtitle": "subtitles.cementmod.concrete_pour"
+  },
+  "reinforced_collapse": {
+    "category": "block",
+    "sounds": [
+      "cementmod:reinforced_collapse"
+    ],
+    "subtitle": "subtitles.cementmod.reinforced_collapse"
+  }
+}

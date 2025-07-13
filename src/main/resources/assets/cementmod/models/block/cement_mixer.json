@@ -1,0 +1,12 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "particle": "cementmod:blocks/cement_mixer_front",
+    "down": "cementmod:blocks/cement_mixer_bottom",
+    "up": "cementmod:blocks/cement_mixer_top",
+    "north": "cementmod:blocks/cement_mixer_front",
+    "east": "cementmod:blocks/cement_mixer_side",
+    "south": "cementmod:blocks/cement_mixer_side",
+    "west": "cementmod:blocks/cement_mixer_side"
+  }
+}
