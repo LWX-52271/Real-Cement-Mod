@@ -1,0 +1,75 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "cementmod:blocks/16_16_6_empty",
+		"particle": "cementmod:blocks/16_16_6_empty"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 6, 0.5],
+			"faces": {
+				"north": {"uv": [0, 4, 8, 8], "texture": "#0"},
+				"east": {"uv": [7.75, 4, 8, 8], "texture": "#0"},
+				"south": {"uv": [0, 4, 8, 8], "texture": "#0"},
+				"west": {"uv": [0, 4, 0.25, 8], "texture": "#0"},
+				"up": {"uv": [4, 6.125, 0, 6], "texture": "#0"},
+				"down": {"uv": [8, 6, 4, 6.125], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 15.5],
+			"to": [16, 6, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 15.5]},
+			"faces": {
+				"north": {"uv": [0, 4, 8, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 0.25, 8], "texture": "#0"},
+				"south": {"uv": [0, 4, 8, 8], "texture": "#0"},
+				"west": {"uv": [7.75, 4, 8, 8], "texture": "#0"},
+				"up": {"uv": [4, 6.375, 0, 6.25], "texture": "#0"},
+				"down": {"uv": [8, 6.25, 4, 6.375], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 0.5],
+			"to": [0.5, 6, 15.5],
+			"faces": {
+				"north": {"uv": [2, 6.5, 2.125, 8], "texture": "#0"},
+				"east": {"uv": [0.25, 4, 7.75, 8], "texture": "#0"},
+				"south": {"uv": [2.25, 6.5, 2.375, 8], "texture": "#0"},
+				"west": {"uv": [0.25, 4, 7.75, 8], "texture": "#0"},
+				"up": {"uv": [0.125, 7.75, 0, 4], "texture": "#0"},
+				"down": {"uv": [0.125, 4.25, 0, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [15.5, 0, 0.5],
+			"to": [16, 6, 15.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.5, 0, 0]},
+			"faces": {
+				"north": {"uv": [2.5, 6.5, 2.625, 8], "texture": "#0"},
+				"east": {"uv": [0.25, 3.75, 7.75, 7.75], "texture": "#0"},
+				"south": {"uv": [2.75, 6.5, 2.875, 8], "texture": "#0"},
+				"west": {"uv": [0.25, 4, 7.75, 8], "texture": "#0"},
+				"up": {"uv": [0.125, 8, 0, 4.25], "texture": "#0"},
+				"down": {"uv": [0.125, 4.25, 0, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 5.75, 6.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 6, 6.75]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.65, 0.65, 0.65]
+		}
+	}
+}

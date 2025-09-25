@@ -1,0 +1,12 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "particle": "cementmod:blocks/cement_packer_front",
+    "down": "cementmod:blocks/cement_packer_bottom",
+    "up": "cementmod:blocks/cement_packer_top",
+    "north": "cementmod:blocks/cement_packer_front",
+    "east": "cementmod:blocks/cement_packer_side",
+    "south": "cementmod:blocks/cement_packer_side",
+    "west": "cementmod:blocks/cement_packer_side"
+  }
+}

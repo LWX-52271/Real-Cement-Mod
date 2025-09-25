@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "cementmod:cement_powder" },
+    { "item": "cementmod:cement_powder" },
+    { "item": "cementmod:cement_powder" },
+    { "item": "cementmod:cement_powder" },
+    { "item": "cementmod:cement_powder" },
+    { "item": "cementmod:cement_powder" },
+    { "item": "cementmod:cement_powder" },
+    { "item": "cementmod:cement_powder" },
+    { "item": "minecraft:leather" }
+  ],
+  "result": {
+    "item": "cementmod:cement_bag",
+    "count": 1
+  }
+}

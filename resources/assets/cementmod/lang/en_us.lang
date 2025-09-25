@@ -1,0 +1,279 @@
+# ===== Items =====
+item.bucketWet_concrete.name=Wet Concrete Bucket
+item.cementmod.cementbag.name=Cement Bag
+item.cementmod.cementpowder.name=Cement Powder
+item.cementmod.completecrushingaxle.name=Complete Crushing Axle
+item.cementmod.crushingaxle.name=Crushing Axle
+item.cementmod.hammer.name=Hammer
+item.cementmod.ironplate.name=Iron Plate
+item.cementmod.largecrushingwheel.name=Large Crushing Wheel
+item.cementmod.limepowder.name=Lime Powder
+item.cementmod.rawmixture.name=Raw Mixture
+item.cementmod.refractorybrick.name=Refractory Brick
+item.cementmod.smallcrushingwheel.name=Small Crushing Wheel
+item.cementmod.wetconcretebucket.name=Wet Concrete Bucket
+item.cementmod.concretedust.name=Concrete Dust
+item.cementmod.woodplate.name=Wooden Plate
+itemGroup.cementmod=Cement Mod
+
+# ===== Blocks =====
+tile.cement_mixer.name=Cement Mixer
+tile.cement_packer.name=Cement Packer
+tile.cementmod.cementmixer.name=Cement Mixer
+tile.cementmod.cementpacker.name=Cement Packer
+tile.cementmod.crusher.name=Crusher
+tile.cementmod.deepclay.name=Deep Clay
+tile.cementmod.hardenedconcrete.name=Hardened Concrete
+tile.cementmod.itemextractor.name=Item Extractor
+tile.cementmod.limestone.name=Limestone
+tile.cementmod.refractorybrickblock.name=Refractory Brick Block
+tile.cementmod.reinforcedconcrete.name=Reinforced Concrete
+tile.cementmod.rotarykiln.name=Rotary Kiln
+tile.cementmod.steelframe.name=Steel Frame
+tile.cementmod.wetconcrete.name=Wet Concrete
+tile.item_extractor.name=Item Extractor
+tile.cementmod.steel_rebar.name=Steel Rebar
+
+# ===== Concrete Frames =====
+tile.cementmod.concrete_frame_empty.name=16x16x2 Empty Frame
+tile.cementmod.concrete_frame_wet.name=16x16x2 Frame (Wet)
+tile.cementmod.concrete_frame_solid.name=16x16x2 Frame (Solid)
+tile.cementmod.concrete_frame_dismantled.name=16x16x2 Concrete Slab
+tile.cementmod.16_16_4_empty.name=16x16x4 Empty Frame
+tile.cementmod.16_16_4_wet.name=16x16x4 Frame (Wet)
+tile.cementmod.16_16_4_solid.name=16x16x4 Frame (Solid)
+tile.cementmod.16_16_4_dismantled.name=16x16x4 Concrete Slab
+tile.cementmod.16_16_6_empty.name=16x16x6 Empty Frame
+tile.cementmod.16_16_6_wet.name=16x16x6 Frame (Wet)
+tile.cementmod.16_16_6_solid.name=16x16x6 Frame (Solid)
+tile.cementmod.16_16_6_dismantled.name=16x16x6 Concrete Slab
+tile.cementmod.16x16x8_empty.name=16x16x8 Empty Frame
+tile.cementmod.16x16x8_wet.name=16x16x8 Frame (Wet)
+tile.cementmod.16x16x8_solid.name=16x16x8 Frame (Solid)
+tile.cementmod.16x16x8_dismantled.name=16x16x8 Concrete Slab
+tile.cementmod.16_16_10_empty.name=16x16x10 Empty Frame
+tile.cementmod.16_16_10_wet.name=16x16x10 Frame (Wet)
+tile.cementmod.16_16_10_solid.name=16x16x10 Frame (Solid)
+tile.cementmod.16_16_10_dismantled.name=16x16x10 Concrete Slab
+tile.cementmod.16_16_12_empty.name=16x16x12 Empty Frame
+tile.cementmod.16_16_12_wet.name=16x16x12 Frame (Wet)
+tile.cementmod.16_16_12_solid.name=16x16x12 Frame (Solid)
+tile.cementmod.16_16_12_dismantled.name=16x16x12 Concrete Slab
+tile.cementmod.16_16_14_empty.name=16x16x14 Empty Frame
+tile.cementmod.16_16_14_wet.name=16x16x14 Frame (Wet)
+tile.cementmod.16_16_14_solid.name=16x16x14 Frame (Solid)
+tile.cementmod.16_16_14_dismantled.name=16x16x14 Concrete Slab
+tile.cementmod.16_16_16_empty.name=16x16x16 Empty Frame
+tile.cementmod.16_16_16_wet.name=16x16x16 Frame (Wet)
+tile.cementmod.16_16_16_solid.name=16x16x16 Frame (Solid)
+tile.cementmod.16_16_16_dismantled.name=16x16x16 Concrete Slab
+tile.cementmod.cement_stair_empty.name=Cement stair frame
+tile.cementmod.cement_stair_wet.name=Cement stair frame(Poured)
+tile.cementmod.cement_stair_solid.name=Cement stair frame(Solid)
+tile.cementmod.cement_stair_dismantled.name=Cement stair
+tile.cementmod.inverted_cement_stair_empty.name=Inverted Cement Stair Frame
+tile.cementmod.inverted_cement_stair_wet.name=Wet Inverted Cement Stair
+tile.cementmod.inverted_cement_stair_solid.name=Solid Inverted Cement Stair
+tile.cementmod.inverted_cement_stair_dismantled.name=Inverted Cement Stair
+
+# ===== Fluids =====
+fluid.wet_concrete.name=Wet Concrete
+
+# ===== Achievements =====
+advancements.cementmod.root.title=Cement Journey
+advancements.cementmod.root.description=Begin your cement production adventure
+advancements.cementmod.deep_earth_explorer.title=Deep Earth Explorer
+advancements.cementmod.deep_earth_explorer.description=Mine Deep Clay from underground
+advancements.cementmod.first_lime.title=First Lime Powder
+advancements.cementmod.first_lime.description=Crush Limestone to get Lime Powder
+advancements.cementmod.crushing_expert.title=Crushing Expert
+advancements.cementmod.crushing_expert.description=Get 4 Lime Powder in one crushing operation
+advancements.cementmod.industrial_revolution.title=Industrial Revolution
+advancements.cementmod.industrial_revolution.description=Build Crusher and Rotary Kiln
+advancements.cementmod.cement_master.title=Cement Master
+advancements.cementmod.cement_master.description=Produce Cement Powder using Rotary Kiln
+advancements.cementmod.efficient_production.title=Efficient Production
+advancements.cementmod.efficient_production.description=Produce 4 Cement Powder in one operation
+advancements.cementmod.concrete_builder.title=Concrete Builder
+advancements.cementmod.concrete_builder.description=Place Hardened Concrete and Wet Concrete
+advancements.cementmod.structure_engineer.title=Structure Engineer
+advancements.cementmod.structure_engineer.description=Craft Reinforced Concrete and place Steel Rebars
+advancements.cementmod.perfect_reinforcement.title=Perfect Reinforcement
+advancements.cementmod.perfect_reinforcement.description=Reinforce in all six directions of a concrete pillar
+advancements.cementmod.structure_master.title=Structure Master
+advancements.cementmod.structure_master.description=Build large structures with Reinforced Concrete
+advancements.cementmod.acid_rain_survivor.title=Acid Rain Survivor
+advancements.cementmod.acid_rain_survivor.description=Survive an acid rain storm
+advancements.cementmod.disaster_proof.title=Disaster-Proof Construction
+advancements.cementmod.disaster_proof.description=Place Reinforced Concrete during acid rain weather
+
+# ===== JEI Integration =====
+jei.category.cement_mixer=Cement Mixer
+jei.category.cement_packer=Cement Packer
+jei.category.crusher=Crusher
+jei.category.rotary_kiln=Rotary Kiln
+
+jei.crusher.input_slot=Input Slot
+jei.crusher.output_slot=Output Slot
+jei.crusher.processing_time=Processing Time: %d seconds
+
+jei.rotary_kiln.burn_time=Burn Time: %d seconds
+jei.rotary_kiln.fuel_recipe=Fuel Recipe
+jei.rotary_kiln.fuel_slot=Fuel Slot
+jei.rotary_kiln.input_slot=Input Slot
+jei.rotary_kiln.output_slot=Output Slot
+jei.rotary_kiln.smelting_recipe=Smelting Recipe
+jei.rotary_kiln.smelting_time=Smelting Time: %d seconds
+
+# ===== Tooltips =====
+## General
+tooltip.cementmod.progress=Progress: %d%%
+tooltip.hammer.attack_speed=Attack Speed: %s
+tooltip.hammer.damage=Attack Damage: %s
+tooltip.hammer.durability=Durability: %s/%s
+tooltip.hammer.durability_left=Durability: %d/%d
+tooltip.hammer.heavy=Heavy Weapon - Right-click for heavy attack
+tooltip.hammer.warning=§cWarning: Hammer is about to break!
+
+## Structure
+tooltip.cementmod.crusher_structure=§6Structure Requirements:§r Bottom layer 2x2 with three Steel Frames and one any block, each Steel Frame has a Steel Frame above, the any block has the Crusher
+tooltip.cementmod.rotary_kiln_structure=§6Structure Requirements:§r Bottom layer 3x1 Refractory Brick base, second layer 3x1 Rotary Kiln blocks
+
+## Machine Functions
+tooltip.cementmod.cement_mixer=§eAutomatically mixes wet concrete buckets
+tooltip.cementmod.cement_packer=§eAutomatically packs cement
+tooltip.cementmod.item_extractor=§eAutomatically extracts items
+
+## Cement Mixer
+tooltip.mixer.lime_powder=Lime Powder
+tooltip.mixer.output=Wet Concrete Bucket
+tooltip.mixer.sand=Sand
+tooltip.mixer.water_bucket=Water Bucket
+tooltip.mixer.water_empty=Water tank empty
+tooltip.mixer.water_full=Water level full
+tooltip.mixer.water_level=Water Level: %d/%d mB
+tooltip.mixer.water_low=Water level low!
+tooltip.mixer.water_medium=Water level medium
+
+## Packer
+tooltip.packer.input=Cement Powder
+tooltip.packer.output=Cement Bag
+tooltip.packer.progress=Packing Progress
+progress.cement_packer=Packing Progress: %d
+
+## Extractor
+tooltip.extractor.count=Items extracted
+tooltip.extractor.status=Status
+tooltip.extractor.storage=Extracted items storage
+
+# ===== Messages =====
+## Hammer
+message.hammer.charged=Hammer charged!
+message.hammer.broken=Your hammer broke!
+
+## Machines
+msg.collapse_warning=Structure collapse detected!
+msg.extractor.count=Extracted: %d items
+msg.extractor.error=§cNot connected to machine
+msg.extractor.idle=§7Idle
+msg.extractor.working=§aWorking
+msg.mixer.low_water=§cInsufficient water
+msg.mixer.mixing=Mixing...
+msg.packer.packing=Packing...
+
+## Concrete Frames/Slabs
+msg.frame.filled=Concrete frame filled
+msg.plate.filled=Concrete slab filled
+msg.frame.hardened=Concrete frame hardened
+msg.plate.hardened=Concrete slab hardened
+msg.frame.dismantled=Concrete frame dismantled
+msg.plate.dismantled=Concrete slab dismantled
+message.cementmod.insufficient_rebars=Insufficient rebars
+
+# ===== Subtitles =====
+subtitles.block.cementmod.crusher.open=Crusher opens
+subtitles.block.cementmod.rotary_kiln.open=Rotary Kiln opens
+subtitles.cementmod.concrete_collapse=Concrete collapses
+subtitles.cementmod.concrete_pour=Concrete pouring
+subtitles.cementmod.crusher_operating=Crusher operating
+subtitles.cementmod.crusher_run=Crusher running
+subtitles.cementmod.crushing=Crushing
+subtitles.cementmod.hammer_hit=Hammer hit
+subtitles.cementmod.hammer_swing=Hammer swing
+subtitles.cementmod.kiln_burn=Kiln burning
+subtitles.cementmod.rebar_place=Rebar placed
+subtitles.cementmod.reinforced_collapse=Reinforced concrete collapses
+subtitles.cementmod.rotating=Rotation
+subtitles.cementmod.wet_concrete_place=Wet concrete placed
+subtitles.cementmod.frame_fill=Concrete frame filling
+subtitles.cementmod.plate_fill=Concrete slab filling
+subtitles.cementmod.frame_harden=Concrete frame hardening
+subtitles.cementmod.plate_harden=Concrete slab hardening
+
+# ===== GUI =====
+container.cement_mixer=Cement Mixer
+container.cement_packer=Cement Packer
+container.item_extractor=Item Extractor
+container.cement_bag=Cement Bag
+gui.cement_mixer.progress=Mixing Progress:%d
+gui.cement_packer.cement_powder=Cement Powder
+gui.cement_packer.leather=Leather
+
+# ===== Status =====
+status.extractor.idle=Idle
+status.extractor.invalid=Invalid position
+status.extractor.working=Working
+
+# ===== Recipe Descriptions =====
+recipe.hammer_crafting_iron_plate=Iron Ingot + Hammer = Iron Plate
+
+# ===== Interaction Hints =====
+action.fill_frame=Fill frame with wet concrete bucket
+action.fill_plate=Fill slab with wet concrete bucket
+action.dismantle_frame=Dismantle hardened frame with axe
+action.dismantle_plate=Dismantle hardened slab with axe
+hint.concrete_hardening=Concrete hardening...
+hint.concrete_placed=Concrete placed
+
+item.wet_concrete_bucket.desc=可用于浇筑混凝土框架
+item.durability=耐久度: %s/%s
+# 倾斜水泥栏杆
+tile.cementmod.inclined_cement_railing_empty.name=Empty Inclined Cement Railing
+tile.cementmod.inclined_cement_railing_wet.name=Wet Inclined Cement Railing
+tile.cementmod.inclined_cement_railing_solid.name=Solid Inclined Cement Railing
+tile.cementmod.inclined_cement_railing_dismantled.name=Dismantled Inclined Cement Railing
+
+tile.cementmod.end_of_cement_railing_empty.name=End of Cement Railing Frame
+tile.cementmod.end_of_cement_railing_wet.name=End of Cement Railing Frame (Poured)
+tile.cementmod.end_of_cement_railing_solid.name=End of Cement Railing Frame (Solidified)
+tile.cementmod.end_of_cement_railing_dismantled.name=End of Cement Railing
+# 水泥柱
+tile.cementmod.cement_pillar_empty.name=Cement Pillar Frame
+tile.cementmod.cement_pillar_wet.name=Cement Pillar(Poured)
+tile.cementmod.cement_pillar_solid.name=Cement Pillar(Solidified)
+tile.cementmod.cement_pillar_dismantled.name=Cement Pillar
+block.cementmod.wet_concrete_bucket_placed=Wet Concrete Bucket
+item.cementmod.wet_concrete_bucket=Wet Concrete Bucket
+item.trowel.name=Trowel
+# ItemTrowel messages
+message.cementmod.already_has_cement=Your trowel already has cement!
+tooltip.cementmod.trowel_has_cement=Has cement
+tooltip.cementmod.trowel_empty=Empty
+
+tile.concrete_cauldron.name=Concrete Cauldron
+# Block Names
+tile.cement_covered.name=Cement Covered Block
+
+# Item Names
+item.trowel.name=Trowel
+
+# Messages
+message.cementmod.trowel_no_cement=No cement on the trowel!
+message.cementmod.cement_applied=Cement applied.
+message.cementmod.cement_max_level=Cement has reached maximum level.
+message.cementmod.cannot_add_cement=Cannot add cement to this block.
+message.cementmod.wrong_face=Please use the trowel on the cemented face.
+
+# Tooltips
+tooltip.cementmod.trowel_has_cement=Loaded with cement
+tooltip.cementmod.trowel_empty=Empty trowel

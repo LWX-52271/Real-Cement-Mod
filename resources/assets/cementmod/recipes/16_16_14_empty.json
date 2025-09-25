@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VV ",
+    "V V",
+    "VVV"
+  ],
+  "key": {
+    "V": {
+      "item": "cementmod:wood_plate"
+    }
+  },
+  "result": {
+    "item": "cementmod:16_16_14_empty",
+    "count": 1
+  }
+}

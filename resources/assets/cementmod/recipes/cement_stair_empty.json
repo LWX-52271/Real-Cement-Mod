@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  V",
+    " VV",
+    "VVV"
+  ],
+  "key": {
+    "V": {
+      "item": "cementmod:wood_plate"
+    }
+  },
+  "result": {
+    "item": "cementmod:cement_stair_empty",
+    "count": 1
+  }
+}

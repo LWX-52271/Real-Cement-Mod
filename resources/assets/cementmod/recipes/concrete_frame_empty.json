@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " V ",
+    "   "
+  ],
+  "key": {
+    "V": {
+      "item": "cementmod:wood_plate"
+    }
+  },
+  "result": {
+    "item": "cementmod:concrete_frame_empty",
+    "count": 1
+  }
+}

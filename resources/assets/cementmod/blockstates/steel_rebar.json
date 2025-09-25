@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "bar_type=one,pour_type=empty": { "model": "cementmod:one_bar" },
+    "bar_type=one,pour_type=wet": { "model": "cementmod:one_bar" },
+    "bar_type=one,pour_type=solid": { "model": "cementmod:one_bar" },
+
+    "bar_type=two,pour_type=empty": { "model": "cementmod:two_bar" },
+    "bar_type=two,pour_type=wet": { "model": "cementmod:two_bar" },
+    "bar_type=two,pour_type=solid": { "model": "cementmod:two_bar" },
+
+    "bar_type=three,pour_type=empty": { "model": "cementmod:three_bar" },
+    "bar_type=three,pour_type=wet": { "model": "cementmod:three_bar" },
+    "bar_type=three,pour_type=solid": { "model": "cementmod:three_bar" },
+
+    "bar_type=four,pour_type=empty": { "model": "cementmod:four_bar" },
+    "bar_type=four,pour_type=wet": { "model": "cementmod:four_bar" },
+    "bar_type=four,pour_type=solid": { "model": "cementmod:four_bar" },
+
+    "bar_type=four_begirt,pour_type=empty": { "model": "cementmod:four_bar(begirt)" },
+    "bar_type=four_begirt,pour_type=wet": { "model": "cementmod:four_bar(begirt_poured)" },
+    "bar_type=four_begirt,pour_type=solid": { "model": "cementmod:four_bar(begirt_solid)" }
+  }
+}

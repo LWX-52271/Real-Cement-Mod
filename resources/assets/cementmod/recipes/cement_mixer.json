@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IPI",
+    "SFS",
+    "CRC"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "P": { "item": "minecraft:piston" },
+    "S": { "item": "minecraft:stone","data": 0},
+    "F": { "item": "minecraft:furnace" },
+    "C": { "item": "minecraft:cauldron" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": {
+    "item": "cementmod:cement_mixer",
+    "count": 1
+  }
+}

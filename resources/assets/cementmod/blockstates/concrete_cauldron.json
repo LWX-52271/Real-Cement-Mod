@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "state=empty": { "model": "minecraft:cauldron_empty" },
+    "state=sand": { "model": "cementmod:cauldron_sand" },
+    "state=cement_powder1": { "model": "cementmod:cauldron_cement_powder1" },
+    "state=cement_powder2": { "model": "cementmod:cauldron_cement_powder2" },
+    "state=cement_water": { "model": "cementmod:cauldron_cement_water" },
+    "state=concrete": { "model": "cementmod:cauldron_concrete" }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "type=empty,direction=north": { "model": "cementmod:cement_stair_empty" },
+    "type=empty,direction=south": { "model": "cementmod:cement_stair_empty", "y": 180 },
+    "type=empty,direction=east": { "model": "cementmod:cement_stair_empty", "y": 90 },
+    "type=empty,direction=west": { "model": "cementmod:cement_stair_empty", "y": 270 },
+
+    "type=wet,direction=north": { "model": "cementmod:cement_stair_wet" },
+    "type=wet,direction=south": { "model": "cementmod:cement_stair_wet", "y": 180 },
+    "type=wet,direction=east": { "model": "cementmod:cement_stair_wet", "y": 90 },
+    "type=wet,direction=west": { "model": "cementmod:cement_stair_wet", "y": 270 },
+
+    "type=solid,direction=north": { "model": "cementmod:cement_stair_solid" },
+    "type=solid,direction=south": { "model": "cementmod:cement_stair_solid", "y": 180 },
+    "type=solid,direction=east": { "model": "cementmod:cement_stair_solid", "y": 90 },
+    "type=solid,direction=west": { "model": "cementmod:cement_stair_solid", "y": 270 },
+
+    "type=dismantled,direction=north": { "model": "cementmod:cement_stair_dismantled" },
+    "type=dismantled,direction=south": { "model": "cementmod:cement_stair_dismantled", "y": 180 },
+    "type=dismantled,direction=east": { "model": "cementmod:cement_stair_dismantled", "y": 90 },
+    "type=dismantled,direction=west": { "model": "cementmod:cement_stair_dismantled", "y": 270 }
+  }
+}

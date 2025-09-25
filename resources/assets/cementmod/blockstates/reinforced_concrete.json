@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_bottom_top",
+    "textures": {
+      "top": "cementmod:blocks/reinforced_concrete_up",
+      "bottom": "cementmod:blocks/reinforced_concrete_up",
+      "side": "cementmod:blocks/reinforced_concrete"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{"transform": "forge:default-block"}]
+  }
+}

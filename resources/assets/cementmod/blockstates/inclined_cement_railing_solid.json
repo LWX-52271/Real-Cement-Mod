@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cementmod:inclined_cement_railing_solid" },
+    "facing=south": { "model": "cementmod:inclined_cement_railing_solid", "y": 180 },
+    "facing=west": { "model": "cementmod:inclined_cement_railing_solid", "y": 270 },
+    "facing=east": { "model": "cementmod:inclined_cement_railing_solid", "y": 90 }
+  }
+}

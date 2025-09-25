@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "durability=0": { "model": "cementmod:wet_concrete_bucket_placed_0" },
+    "durability=1": { "model": "cementmod:wet_concrete_bucket_placed_1" },
+    "durability=2": { "model": "cementmod:wet_concrete_bucket_placed_2" },
+    "durability=3": { "model": "cementmod:wet_concrete_bucket_placed_3" },
+    "durability=4": { "model": "cementmod:wet_concrete_bucket_placed_4" },
+    "durability=5": { "model": "cementmod:wet_concrete_bucket_placed_5" },
+    "durability=6": { "model": "cementmod:wet_concrete_bucket_placed_6" },
+    "durability=7": { "model": "cementmod:wet_concrete_bucket_placed_7" },
+    "durability=8": { "model": "cementmod:wet_concrete_bucket_placed_8" }
+  }
+}
